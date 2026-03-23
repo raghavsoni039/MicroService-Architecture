@@ -73,8 +73,8 @@ The system consists of the following services:
 ### 1. Clone the repository
 
 ```bash
-git clone <repo-url>
-cd devops_microservices
+git clone https://github.com/raghavsoni039/DevOps-Project-2-MicroService-Architecture.git
+cd DevOps-Project-2-MicroService-Architecture
 ```
 
 ### 2. Start services
